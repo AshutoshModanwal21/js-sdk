@@ -1,4 +1,5 @@
-import { BN } from "@coral-xyz/anchor";
+import  pkg  from "@coral-xyz/anchor";
+const  {BN} = pkg;
 import { ICluster } from "@streamflow/common";
 import { PublicKey } from "@solana/web3.js";
 
